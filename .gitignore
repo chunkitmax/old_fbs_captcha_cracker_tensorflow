@@ -1,0 +1,7 @@
+*.jpg
+*.txt
+*.vscode
+__pycache__
+test
+model
+
