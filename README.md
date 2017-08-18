@@ -14,3 +14,5 @@
 Download model https://drive.google.com/file/d/0Bx2utaehJvC9VWFPRzNfQ0pDUlU/view?usp=sharing
 <br/>
 Extract model folder to the directory
+<br/>
+Accuracy: ~97.67%
